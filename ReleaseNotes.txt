@@ -1,3 +1,6 @@
+2019-02-11
+	Minor update for R2018b
+
 2018-04-19
 	Updated Japanese version to R2017b
 
