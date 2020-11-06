@@ -1,0 +1,20 @@
+2018-04-19
+	Updated Japanese version to R2017b
+
+2018-01-30
+	Major update for R2017b
+
+2017-04-28
+	Updated Japanese version to R2016b
+
+2017-02-24
+	Major update for R2016b
+
+2016-12-28
+	Added Japanese version of the guide
+
+2015-05-21
+	Updated Stateflow examples and screen shots
+
+2015-05-11
+	Initial Release

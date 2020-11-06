@@ -1,0 +1,31 @@
+HDL Evaluation Reference Guide Examples
+
+2. Using Simulink for HDL Designs
+
+   2.2.2  Multi-rate modeling
+   Open model: downsample_upsample_example.slx        $ downsample_upsample_example
+
+   2.2.3  Conditional subsystems
+   Open model: enabled_subsystem_example.slx          $ enabled_subsystem_example
+
+   2.2.4  Synchronous enable and reset
+   Open model: sync_enable_example.slx                $ sync_enable_example
+
+   2.2.5  Logic analyzer scope
+   Open model: view_wave_example.slx                  $ view_wave_example
+
+   2.4.2  Mealy, Moore and Classic charts
+   Open model: stateflow_example.slx                  $ stateflow_example
+
+4. Targeting FPGA Hardware
+
+   4.3.3  Complex multiply
+   Open model: complex_multiply_example.slx           $ complex_multiply_example
+
+   4.3.4  FIR filter
+   Open model: fir_filter_example.slx                 $ fir_filter_example
+
+
+Clean Up                                              $ clear all; clc; bdclose all; close all force;
+
+
