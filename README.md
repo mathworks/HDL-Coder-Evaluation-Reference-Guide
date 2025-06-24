@@ -12,3 +12,6 @@ Guidelines for getting started using HDL Coder to generate VHDL or Verilog to ta
 * Verifying your generated code
 
 Examples are included to illustrate selected concepts. 
+
+
+Copyright 2025, The MathWorks, Inc.
